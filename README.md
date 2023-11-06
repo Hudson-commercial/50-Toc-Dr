@@ -8,7 +8,7 @@
 
 - [https://hudson-commercial.github.io/50-Toc-Dr/](https://hudson-commercial.github.io/ 50-Toc-Dr) - Link to Project website - 
 - [https://hudsoncommercial.com/](https://hudsoncommercial.com/) - Link to Hudson Commercial Real Estate Website - 
-- [[https://www.loopnet.com/Listing/50-Toc-Dr-Highland-NY/29939090/](https://www.loopnet.com/Listing/50-Toc-Dr-Highland-NY/29939090/))] - Link to The Loopnet Listing For 50 Toc Dr - 
+- [[https://www.loopnet.com/Listing/50-Toc-Dr-Highland-NY/29939090/](https://hudson-commercial.github.io/50-Toc-Dr/))] - Link to The Loopnet Listing For 50 Toc Dr - 
 
 
 ## About
