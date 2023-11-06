@@ -11,7 +11,7 @@
 
 - [https://hudson-commercial.github.io/50-Toc-Dr/](https://hudson-commercial.github.io/riverview-for-lease/) - Link to Project website - 
 - [https://hudsoncommercial.com/](https://hudsoncommercial.com/) - Link to Hudson Commercial Real Estate Website - 
-- [[https://www.loopnet.com/Listing/22-24-Riverview-Dr-Marlboro-NY/21143335/]([https://www.loopnet.com/Listing/50-Toc-Dr-Highland-NY/29939090/](https://www.loopnet.com/Listing/50-Toc-Dr-Highland-NY/29939090/))](https://www.loopnet.com/Listing/22-24-Riverview-Dr-Marlboro-NY/21143335/) - Link to The Loopnet Listing For 22-24 Riverview Dr - 
+- [[https://www.loopnet.com/Listing/50-Toc-Dr-Highland-NY/29939090/](https://www.loopnet.com/Listing/50-Toc-Dr-Highland-NY/29939090/))](https://www.loopnet.com/Listing/22-24-Riverview-Dr-Marlboro-NY/21143335/) - Link to The Loopnet Listing For 22-24 Riverview Dr - 
 
 
 ## About
