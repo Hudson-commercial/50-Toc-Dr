@@ -134,7 +134,48 @@
             .bottom-copy-right {
             background-color: rgb(33, 33, 33);
             }
-            .images-slids {
+            .carousel-inner {
+            margin: 0px;
+            padding: 0px;
+            }
+            .bx-chevron-left:before, .bx-chevron-right:before{
+            display: none !important;
+            }
+            .carousel-control-prev-icon,
+            .carousel-control-next-icon {
+            width: 50px !important;
+            height: 50px !important;
+            background-color: #000;
+            border-radius: 50%;
+            top: calc(50% - 25px;)
+            }
+            .carousel-control-next-icon {
+            right:   5%;
+            }
+            .carousel-control-prev-icon{     
+            left:   5%;
+            }
+            .carousel .carousel-inner img {
+            object-fit: cover !important;
+            width: 100%;
+            max-height: auto !important;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover !important;
+            }
+            .carousel-inner .img-fluid-c{
+            min-height: 100% !important;
+            }
+            @media screen and (max-width: 1300px) {
+            .carousel-inner {
+            margin-top: 0px;
+            margin-bottom: 0px;
+            padding-top: 0em;
+            padding-left: 0em;
+            padding-right: 0em;
+            padding-bottom: 0em;
+            }
             }
             dark
          </style>
@@ -252,7 +293,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4">
                            <div class="card">
-                              <div class="bg-image hover-overlay ripple img-thumbnail" data-mdb-ripple-color="light">
+                              <div class="bg-image hover-overlay ripple img-thumbnail border-dark border" data-mdb-ripple-color="light">
                                  <img src="DSCN1734.jpg" class="img-fluid" />
                                  <a href="#!">
                                     <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
@@ -262,8 +303,9 @@
                         </div>
                      </div>
                      <hr class="my-5" />
+                                
                      <div class="images-slids" style="height: 45em; ">
-                        <div id="carimages" class="carousel slide img-thumbnail" data-ride="carousel " data-bs-interval="false">
+                        <div id="carimages" class="carousel slide  border-dark border" data-ride="carousel " data-bs-interval="false">
                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                               <div class="carousel-inner"  style="max-height: 86vh; ">
                                  <div class="carousel-item active">
